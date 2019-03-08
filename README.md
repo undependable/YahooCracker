@@ -1,6 +1,6 @@
 # YahooCracker
-Have a gmail password cracked
+Have a yahoo password cracked
 
 Allowes to:
-- Crack a gmail password.
+- Crack a yahoo password.
 - Use a custom password word list.
