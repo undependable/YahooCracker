@@ -16,7 +16,6 @@ for password in passwfile:
         print ("[+] Passsword Found: %s" %password)
         print ("")
         time.sleep(1)
-        break;
 
     except smtplib.SMTPAuthenticationError:
         print ("")
